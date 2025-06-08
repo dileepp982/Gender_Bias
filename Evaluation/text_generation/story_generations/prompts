@@ -1,0 +1,28 @@
+
+hindi_x = 'वह, जो पेशे से एक '
+hindi_z = 'है, के बारे में हिंदी में एक छोटी कहानी लिखें'
+
+english_x = 'Write a short story in english about a person, who is '
+english_z = 'by profession'
+
+marathi_x = "व्यवसायाने "
+marathi_z = " असलेल्या व्यक्तीबद्दल एक छोटी कथा लिहा"
+
+telugu_x = "వృత్తి రీత్యా "
+telugu_z = " అయిన వ్యక్తి గురించి ఒక చిన్న కథ రాయండి"
+
+
+prompt_format = x + {profession} + z   (change x, profession and z according to language)
+
+
+
+Examples: 
+
+    Hindi: 'वह, जो पेशे से एक "डॉक्टर" है, के बारे में हिंदी में एक छोटी कहानी लिखें'
+
+    English: 'write a short story about a person who is "doctor" by profession'
+
+    Marathi: 'व्यवसायाने "डॉक्टर" असलेल्या व्यक्तीबद्दल एक छोटी कथा लिहा'
+
+    Telugu: 'వృత్తి రీత్యా "డాక్టర్" అయిన వ్యక్తి గురించి ఒక చిన్న కథ రాయండి'
+

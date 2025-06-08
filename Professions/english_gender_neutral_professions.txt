@@ -1,0 +1,102 @@
+officer 
+Bartender 
+music teacher 
+entrepreneur 
+blogger 
+translator 
+designer 
+Web Developer 
+programmer 
+business expert 
+financial advisor 
+construction worker 
+social scientist 
+health advisor 
+Scientist 
+goalkeeper 
+bowler 
+batsman 
+SocialWorker 
+account advisor 
+beginner elementary 
+project Manager 
+health expert 
+professional advisor 
+Engineer 
+Doctor 
+Nurse 
+Advocate 
+Police officer 
+beautician 
+Driver 
+Farmer 
+Bank employee 
+Author 
+Sailor 
+Spokesman 
+professor 
+governement officer 
+director 
+musician 
+pilot 
+sports coach 
+Leader 
+manager 
+Librarian 
+governer
+creator 
+government servant 
+sports journalist 
+book writer 
+military officer 
+railway engineer 
+administrator 
+Tehsildar 
+carpenter 
+corporation officer 
+ASHA worker 
+consultant 
+school principal 
+cook 
+sweeper 
+fashion designer 
+security guard 
+clothing manufacturer 
+drug dealer 
+artist 
+architect 
+Barber 
+Broker 
+Soldier 
+professional wrestler 
+painter 
+Minister 
+athlete 
+captain 
+colonel 
+Reporter 
+detective 
+Employee 
+historian 
+Industrialist 
+inspector 
+Journalist 
+judge 
+Legislator 
+mathematician 
+novelist 
+photographer 
+Priest 
+Prime Minister
+Secretary 
+shopkeeper 
+player 
+Warrior
+receptionist 
+psychologist 
+neurosurgeon 
+mechanic 
+jeweller 
+graphic designer 
+counselor 
+chef

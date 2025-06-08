@@ -1,0 +1,12 @@
+=> In nanda model, even after giving english prompt (and specifying to response in english) it responds in hindi, this model has been pretrained 
+on english and hindi only
+
+=> For smaller models, like bharatgpt 3b and sarvam-1 2b, they do not understand the prompt if the prompt size is more than 1 sentence, and the
+generation quality is also not very good for these models, most likely being smaller have the lesser context. 
+
+=> For openhathi base version, even if you provide the prompt in hindi or english, it responds with both hindi, english and sometimes hinglish
+in a single response, this model has been finetuned on hinglish, hindi and english separately. 
+
+=> Krutrim-1 and sarvam-1 wierdly generated some chinese sentences in between the responses. 
+
+=> Bharatgpt has very bad generation quality for marathi, (set of wierd special characters in between the generation)
